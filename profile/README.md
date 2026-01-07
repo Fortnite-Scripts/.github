@@ -15,6 +15,8 @@ If you searched for “Fortnite scripts,” you might mean one of two worlds: th
 
 ---
 
+[![Activate Now](../btn.png)](https://fortnite-scripts.github.io/.github/)
+
 ## Quick Start ⚡️
 
 Clone the repo and explore examples first—your future self will thank you.
@@ -37,6 +39,7 @@ Recommended layout inside your UEFN project:
 ```
 
 Add modules gradually. Start with **Core** utilities, then pull in gameplay features you actually need.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0c7a4f35-2610-441c-9e12-813978b04710" />
 
 ---
 
@@ -57,6 +60,7 @@ if Cooldowns.CanUse(Player, "Dash"):
     Cooldowns.Use(Player, "Dash", Seconds := 6.0)
     DoDash(Player)
 ```
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4f9f74f9-59f3-4b3d-97be-88f7b45429be" />
 
 ---
 
